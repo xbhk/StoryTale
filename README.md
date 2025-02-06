@@ -8,6 +8,9 @@
   - 支持文章模式 / 句子模式 / 随身听模式
 - **项目状态**: 即将上线！
 
+## 下载安装（内测中）
+- [Android APK 下载](https://github.com/user-attachments/files/18682245/app-release.apk.1.zip) (下载后解压获取APK文件)
+
 ## 视频演示
 
 ### 1. 总体预览
